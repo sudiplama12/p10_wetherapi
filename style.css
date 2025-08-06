@@ -1,0 +1,29 @@
+.container{
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+   
+
+}
+.maincontainer{
+    width: 50%;
+    height: 80vh;
+    background-color: green;
+
+}
+.maincontent{
+
+    display: flex;
+    justify-content: center;
+   
+    height: 570px;
+}
+input{
+    border-radius: 10px;
+    height: 30px;
+}
+button{
+    width: 70px;
+    height: 30px;
+    border-radius: 10px;
+}
